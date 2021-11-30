@@ -1,0 +1,28 @@
+#fname,
+#lname,
+#pass,
+#phno,
+#input6,
+#inpt7 {
+    color: black;
+    font-size: 25px;
+    font-family: "Monotype Corsiva";
+}
+
+#btn1 {
+    height: 30px;
+    width: 70px;
+    background-color: whitesmoke;
+    border-radius: 12px;
+    padding: 5px;
+    color: black;
+}
+
+#btn2 {
+    height: 30px;
+    width: 70px;
+    background-color: whitesmoke;
+    border-radius: 12px;
+    padding: 5px;
+    color: black;
+}
